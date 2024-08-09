@@ -1,0 +1,55 @@
+{
+  "books": [
+    {
+      "id": "6e59",
+      "title": "Dark Nhẫn Tâm",
+      "price": "31231241312",
+      "author": "Vũ Minh Hiếu ",
+      "image": "https://nxbhcm.com.vn/Image/Biasach/dacnhantam86.jpg",
+      "description": "Sách self-help ",
+      "year": "2021"
+    },
+    {
+      "id": "9e59",
+      "title": "Bí Kíp làm giàu cho người mới bắt đầu ",
+      "price": "2122312",
+      "author": "Minh Hiếu ",
+      "image": "https://bookbuy.vn/Res/Images/Product/bi-kip-lam-giau-bo-sach-bi-kip-lam-giau-_45139_1.png",
+      "year": "2023",
+      "description": "Sách dạy làm giàu"
+    },
+    {
+      "id": "cd56",
+      "title": "Bí kíp tán gái ",
+      "price": "123412",
+      "author": "Vũ Minh Hiếu ",
+      "image": "https://images.kienthuc.net.vn/zoom/800/uploaded/nguyenanhson/2018_05_04/8/chet-cuoi-voi-nhung-bo-sach-bi-kip-tan-gai-cua-cac-dong-ho.jpg",
+      "year": "2024",
+      "description": "Cách tán gái trong một nốt nhạc"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Danh mục 1"
+    },
+    {
+      "id": "2",
+      "name": "Danh mục 2"
+    }
+  ],
+  "users": [
+    {
+      "id": "a73d",
+      "email": "test@gmail.com",
+      "password": "1233123312",
+      "remember": true
+    },
+    {
+      "id": "dd2f",
+      "email": "test2@gmail.com",
+      "password": "1233123312",
+      "remember": true
+    }
+  ]
+}
